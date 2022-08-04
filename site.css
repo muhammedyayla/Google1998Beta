@@ -1,0 +1,22 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.search-box{
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.buttons{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
